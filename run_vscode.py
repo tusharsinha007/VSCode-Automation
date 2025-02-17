@@ -6,7 +6,7 @@ from datetime import datetime
 
 VSCODE_PATH = r"C:\Users\User\AppData\Local\Programs\Microsoft VS Code\Code.exe"
 FOLDER_PATH = r"C:\Users\User\Desktop\leehntgjyiSDF4\Leetcoder"
-TARGET_TIME = "13:13"  # Set your desired launch time (24-hour format)
+TARGET_TIME = "20:35"  # Set your desired launch time (24-hour format)
 
 def wait_for_time(target_time):
     """Waits until the specified time before proceeding."""
@@ -17,7 +17,7 @@ def wait_for_time(target_time):
         if current_time == target_time:
             print(f"⏰ Time matched! Launching VS Code now...")
             break
-        time.sleep(30)  # Check every 30 seconds
+        time.sleep(30)  # Check every 30 secondsah
 
 def open_vscode_and_run_command(folder_path):
     """Opens VS Code, launches the terminal, and runs a command using pyautogui."""
