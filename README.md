@@ -16,7 +16,7 @@
 - **Required Python Package:** `pyautogui`
 
 ## 💞 Installation
-### 1️⃣ Clone the Repository ( NOT WORKING NOW SO directlly take the python file )
+### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/your-username/VSCode-Automation.git
 cd VSCode-Automation
