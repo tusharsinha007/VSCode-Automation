@@ -18,7 +18,7 @@
 ## 💞 Installation
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/VSCode-Automation.git
+git clone https://github.com/tusharsinha007/VSCode-Automation
 cd VSCode-Automation
 ```
 
